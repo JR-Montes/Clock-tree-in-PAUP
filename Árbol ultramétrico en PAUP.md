@@ -149,7 +149,7 @@ File > Open > Elijes archivo > execute
 
 ```
 
-![Arbol consenso](https://github.com/JR-Montes/Clock-tree-in-PAUP/blob/master/Cembroides_Plastomes_T59_HighCov_tree_MB.pdf)
+![Consensus tree](https://github.com/JR-Montes/Clock-tree-in-PAUP/blob/master/Cembroides_Plastomes_T59_HighCov_tree_MB.pdf)
 
 
 E. Ahora debes ejecutar el análisis.
@@ -170,7 +170,7 @@ des /plot=phylo;
  
  
  
- ![Árbol ultramétrico](https://github.com/JR-Montes/Clock-tree-in-PAUP/blob/master/Cembroides_Plastomes_T59_HighCov_tree.pdf)
+ ![Ultrametric tree](https://github.com/JR-Montes/Clock-tree-in-PAUP/blob/master/Cembroides_Plastomes_T59_HighCov_tree.pdf)
  
  Listo ahora puedes guardar el árbol.
  
